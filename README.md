@@ -8,7 +8,7 @@ The goal is to predict the optimal credit amount and assess the creditworthiness
 ## Requirements
 
 - Python 3.10.11
-- PySpark
+- PySpark 3.1.2
 - NumPy
 - Pandas
 - scikit-learn
